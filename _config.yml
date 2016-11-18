@@ -7,15 +7,15 @@
 
 # Site settings
 title: Adeeb Ibne Amjad's Portfolio Site
-email: your-email@domain.com
+email: adeeb.amjad@mail.mcgill.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my site! I am a third year software engineering student at McGill University. 
+  I was VP Events for the Bangladeshi Students Association (BSA) McGill from 2015-16. Currently
+  I am working with the controls team of Aero McGill to develop a drop strategy for the upcoming 
+  SAE Aero Design West competition in Fort Worth, Texas, USA.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
+# the base hostname & protocol for your site
+twitter_username: shadaraamarusernamebujhena
+github_username:  adeeb27
 # Build settings
 markdown: kramdown
